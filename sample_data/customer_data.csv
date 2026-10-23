@@ -1,0 +1,17 @@
+customer_id,name,age,city,annual_income,signup_date
+CUST001,Aarav Sharma,28,Chennai,65000,2023-01-15
+CUST002,Priya Patel,34,chennai,72000,2023-02-10
+CUST003,Rohan Verma,45,CHENNAI,89000,2023-03-05
+CUST004,Ananya Iyer,,Mumbai,54000,2023-04-12
+CUST005,Vikram Singh,185,mumbai,98000,2023-05-18
+CUST006,Neha Gupta,29,Bengaluru,,2023-06-20
+CUST007,Siddharth Reddy,41,bengaluru,115000,2023-07-22
+CUST008,Deepika Nair,36,Chennai,78000,2023-08-30
+CUST008,Deepika Nair,36,Chennai,78000,2023-08-30
+CUST009,Rahul Dravid,52,Bengaluru,14500000,2023-09-14
+CUST010,Kavita Krishnan,31,Delhi,62000,2023-10-02
+CUST011,Karan Malhotra,-4,delhi,58000,11/15/2023
+CUST012,Sneha Rao,26,Delhi,51000,2023-12-01
+CUST013,Amitabh Ghosh,48,Kolkata,,2024-01-11
+CUST014,Pooja Hegde,27,kolkata,67000,2024-02-14
+CUST015,Manoj Bajpayee,55,Kolkata,125000,2024-03-25
